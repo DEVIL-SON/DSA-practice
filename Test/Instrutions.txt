@@ -1,0 +1,4 @@
+INSTRUCTIONS:
+1. There are 15 Questions. Given point according to the difficulty level
+2. The question will come one by one and Both the Player has to Click the buzzer and answer the question
+3. Whoever CLicked the Buzzer name first will and answer the question will win the Score
